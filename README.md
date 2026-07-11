@@ -1,4 +1,4 @@
-# About BHop Lite
+# Garry's Mod BunnyHop-Lite
 A lightweight Bunny Hop gamemode for Garry's Mod<br/>
 Unique features: Database to memory caching system, SQLite, minimal network traffic, and optimized code for maximum performance<br/>
 Additional features: RNG fix, perfect telehop fix, doors fix, breakables fix, lua_run backdoor fix<br/>
