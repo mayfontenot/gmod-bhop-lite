@@ -1,9 +1,10 @@
 # Garry's Mod BunnyHop-Lite
 A lightweight Bunny Hop gamemode for Garry's Mod.\
-Unique features: Database to memory caching system, SQLite, minimal network traffic, and optimized code for maximum performance\
-Additional features: RNG fix, perfect telehop fix, doors fix, breakables fix, lua_run backdoor fix\
-Made by Mei and FiBzY\
 WORK IN PROGRESS, changelevel system yet to be implemented
+
+## Features
+Unique features: Database to memory caching system, SQLite, minimal network traffic, and optimized code for maximum performance\
+Additional features: RNG fix, perfect telehop fix, doors fix, breakables fix, lua_run backdoor fix
 
 ## Installation and usage
 1. Place folders in Garry's Mod/garrysmod/ directory
@@ -13,3 +14,6 @@ WORK IN PROGRESS, changelevel system yet to be implemented
 5. /map \<map\> to save data and change level, currently no map vote system, will be implemented soon
 6. Press F1 to open the BHop Lite menu, here you view records and all commands
 7. command prefix: "!" or "/"
+
+## Credits
+May and FiBzY
