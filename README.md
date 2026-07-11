@@ -1,5 +1,5 @@
 # Garry's Mod BunnyHop-Lite
-A lightweight Bunny Hop gamemode for Garry's Mod.\
+A lightweight BunnyHop gamemode for Garry's Mod.\
 WORK IN PROGRESS, changelevel system yet to be implemented
 
 ## Features
